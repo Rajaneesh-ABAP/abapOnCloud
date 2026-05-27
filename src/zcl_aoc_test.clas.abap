@@ -12,11 +12,10 @@ ENDCLASS.
 
 
 
-CLASS zcl_aoc_test IMPLEMENTATION.
+CLASS ZCL_AOC_TEST IMPLEMENTATION.
+
+
   METHOD display.
-    out->write( 'Hello World!' ).
-    out->write( 'Hello World!' ).
-    out->write( 'Hello World!' ).
     out->write( 'Hello World!' ).
     out->write( 'Hello World!' ).
   ENDMETHOD.
