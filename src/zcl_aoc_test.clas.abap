@@ -16,5 +16,8 @@ CLASS zcl_aoc_test IMPLEMENTATION.
   METHOD display.
     out->write( 'Hello World!' ).
     out->write( 'Hello World!' ).
+    out->write( 'Hello World!' ).
+    out->write( 'Hello World!' ).
+    out->write( 'Hello World!' ).
   ENDMETHOD.
 ENDCLASS.
